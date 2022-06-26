@@ -1,4 +1,4 @@
-# graduation_project
+# disease prediction app
 
 A new Flutter project.
 
